@@ -15,7 +15,7 @@ Liige C – NotebookLM-i seadistaja.
 - Jagasin märkmikku meeskonnaga.
 
 ## Lingid
-- Meeskonna GitHub: [lisa repo link]
+- Meeskonna GitHub: https://github.com/kairikiik-hub/UrbanStyle-G2----Kliendid-Turundus
 - NotebookLM: https://notebook.google.com/notebook/ecea9bed-ef4f-4013-ab7d-cac0ec3c65a0
 
 ## Näide AI vastusest
