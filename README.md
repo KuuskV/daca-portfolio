@@ -1,12 +1,31 @@
-# UrbanStyle-G2----Kliendid-Turundus
-## Meeskonnaliikmed
+# Nädal 0 – töökeskkonna seadistamine
 
-| Nimi | Roll (Nädal 1) | OS |
-| :--- | :--- | :--- |
-| [Kairi Kiik] | Roll A: GitHub Repo Seadistaja | Windows |
-| [Katri Vaik] | Roll B: Supabase Seadistaja | Windows  |
-| [Virko Kuusk] | Roll C: NotebookLM Seadistaja |  Mac |
-| [Berent Mere] | Roll D: Team Charter Koostaja | Windows |
+## Meeskond
+UrbanStyle G2 – Kliendid-Turundus
 
-## Meie eesmärk
-Luua toimivad ühised tööriistad DACA onboarding-nädalal ning toetada UrbanStyle.ltd andmepõhiseid otsuseid.
+## Minu roll
+Liige C – NotebookLM-i seadistaja.
+
+## Minu tehtud töö
+- Lõin meeskonna ühise Google Chat grupi.
+- Lõin meeskonna ühise NotebookLM-i märkmiku.
+- Lisasin 4 CORE RAG faili.
+- Genereerisin Audio Overview.
+- Esitasin vähemalt kaks küsimust ja kontrollisin vastuseid.
+- Jagasin märkmikku meeskonnaga.
+
+## Lingid
+- Meeskonna GitHub: [lisa repo link]
+- NotebookLM: https://notebook.google.com/notebook/ecea9bed-ef4f-4013-ab7d-cac0ec3c65a0
+
+## Näide AI vastusest
+Küsimus: 
+1. Kes on UrbanStyle.ltd peamised tegelased ja mis on
+   nende rollid?
+2. Mis on DACA programmi 4 komponenti ja kuidas nad omavahel seotud on?
+
+
+Vastuse lühikokkuvõte: [sisesta tegeliku vastuse kokkuvõte]
+
+## Mida õppisin
+[kirjuta 1–2 lauset enda kogemuse kohta]
