@@ -28,4 +28,4 @@ Küsimus:
 Vastuse lühikokkuvõte: [sisesta tegeliku vastuse kokkuvõte]
 
 ## Mida õppisin
-[kirjuta 1–2 lauset enda kogemuse kohta]
+Esimene kogemus oli väga uus ja natuke hirmutav, väga palju uut informatsiooni ja uusi süsteeme. Hirmusid tuleb ületada ja nendest läbi suruda, ja seda ma teen.
