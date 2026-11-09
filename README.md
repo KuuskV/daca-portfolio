@@ -3,6 +3,12 @@
 ## Meeskond
 UrbanStyle G2 – Kliendid-Turundus
 
+Tiimiliikmed:
+- Kairi
+- Katri
+- Virko
+- Berent
+
 ## Minu roll
 Liige C – NotebookLM-i seadistaja.
 
