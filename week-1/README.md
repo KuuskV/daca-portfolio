@@ -37,4 +37,4 @@ Kasutasin Perplexity AI-d juhendajana: see selgitas uusi mõisteid ja päringute
 
 ## Meeskonna töö
 - Meeskonna repo: https://github.com/kairikiik-hub/UrbanStyle-G2----Kliendid-Turundus
-- Data Landscape: [link meeskonna slaidile või dokumendile]
+- Data Landscape: https://docs.google.com/presentation/d/15duT6ha-sxmhAaf42gZj1zVSfvYHL4yzM5Gi4l76k1I/edit?usp=sharing
