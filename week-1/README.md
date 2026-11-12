@@ -31,9 +31,15 @@ Hindu ja kategooriaid saab aruandluses kindlalt kasutada, kuid 18 toote ökomär
 Kasutasin Perplexity AI-d juhendajana: see selgitas uusi mõisteid ja päringute ülesehitust ning kontrollis minu kirjutatud päringuid ja vigu. Enamiku päringuid kirjutasin ise, AI aitas boonuspäringu ja kommentaaride sõnastusega. Kõik tulemused kontrollisin ise Supabase'is üle.
 
 ## Failid
-- `individual/week1_products_exploration.sql` – minu SQL päringud koos kommentaaride ja järeldustega
-- `individual/week1_results_screenshot.png` – tulemuste pilt
-- `individual/week1_results_kahjumiga_tooted.png` – kahjumiga toodete päringu tulemus
+- [week1_products_exploration.sql](individual/week1_products_exploration.sql) – minu SQL päringud koos kommentaaride ja järeldustega
+- [week1_results_screenshot.png](individual/week1_results_screenshot.png) – tulemuste pilt
+- [week1_results_kahjumiga_tooted.png](individual/week1_results_kahjumiga_tooted.png) – kahjumiga toodete päringu tulemus
+- [week1_data_landscape.md](team/week1_data_landscape.md) – viide meeskonna tööle
+
+## Tulemused
+![Hinnad kategooriate kaupa](individual/week1_results_screenshot.png)
+![Kahjumiga tooted](individual/week1_results_kahjumiga_tooted.png)
+
 
 ## Meeskonna töö
 - Meeskonna repo: https://github.com/kairikiik-hub/UrbanStyle-G2----Kliendid-Turundus
