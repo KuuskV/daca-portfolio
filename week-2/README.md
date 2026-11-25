@@ -1,7 +1,12 @@
 # Nädal 2: SQL puhastamine (UrbanStyle)
 
 **Minu roll:** B, kliendiandmete puhastaja (tabel `customers`).
-**Kontekst:** meeskond UrbanStyle G2 – Kliendid-Turundus puhastab UrbanStyle'i andmeid. Iga liige võtab ühe domeeni (müük, kliendid, tooted, ristvalideerimine). Meeskonna ühisraport: https://github.com/kairikiik-hub/UrbanStyle-G2----Kliendid-Turundus .
+
+**Kontekst:** meeskond UrbanStyle G2 – Kliendid-Turundus puhastab UrbanStyle'i andmeid. Iga liige võtab ühe domeeni (müük, kliendid, tooted, ristvalideerimine). 
+
+Meeskonna ühisraport: https://github.com/kairikiik-hub/UrbanStyle-G2----Kliendid-Turundus
+
+Meeskonna koondraport: [week2_team_cleaning_report.md](team/week2_team_cleaning_report.md).
 
 ## Minu osa
 
