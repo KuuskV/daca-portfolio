@@ -132,7 +132,7 @@ WHERE phone IS NOT NULL
 LIMIT 10;
 
 -- Telefoninumbrid, kontroll kogu tabelil
--- Tulemus: TÄIDA (0 = kõik samas formaadis)
+-- Tulemus: 0 (kõik numbrid on samas formaadis)
 SELECT COUNT(*) AS erinev_formaat
 FROM customers_test
 WHERE phone IS NOT NULL

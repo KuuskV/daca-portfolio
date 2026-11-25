@@ -28,7 +28,7 @@ Test koopia → leia probleemid → puhasta koopial → kontrolli → dokumentee
 | E-mailid valesti formaadis | 0 | 0 |
 | Duplikaatsed e-mailid | 128 | 128 (ei kustutatud, vajab ärireeglit) |
 | Kliente ilma e-mailita | 380 | 380 (SQL ei paranda) |
-| Telefoni formaat | +372 XXXX XXXX | muutmata (TÄIDA kontrolli tulemus) |
+| Telefoni formaat | +372 XXXX XXXX | muutmata (kontroll: 0 erineva formaadiga numbrit) |
 
 ## Tähelepanekud
 
