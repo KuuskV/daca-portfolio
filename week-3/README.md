@@ -18,7 +18,7 @@ Enne JOINe viisin nädala 2 puhastuse originaaltabelitesse: sales 15 234 -> 10 1
 
 - [individual/week3_roll_a_myyk_kliendid.sql](individual/week3_roll_a_myyk_kliendid.sql): kõik päringud
 - individual/screenshots/: tulemuste ekraanipildid (TOP 10 kliendid, müük linnade kaupa, müük lojaalsustasemete kaupa)
-- Meeskonna ühine väljund: [LISA LINK SIIA]
+- Meeskonna ühine väljund: https://docs.google.com/presentation/d/1_Ft9nK9J098MdFqELLU8sawzKJsgkvK8X-9ry-ssxhU/edit?usp=sharing
 
 ### Päringud
 
